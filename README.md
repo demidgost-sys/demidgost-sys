@@ -19,4 +19,4 @@ I am a Mathematics student at TU Graz focused on software engineering and QA aut
 
 Based in Graz, Austria. Open to working-student, part-time and internship roles in software engineering or QA automation.
 
-[Portfolio](https://demid.page) · [LinkedIn](https://www.linkedin.com/in/demid-valiullin/)
+[Portfolio](https://demid.page) · [LinkedIn](https://www.linkedin.com/in/demid-valiullin-432388358/)
